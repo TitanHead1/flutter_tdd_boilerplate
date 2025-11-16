@@ -1,0 +1,10 @@
+[
+  {
+    "id": 12,
+    "title": "Test",
+    "price": "100",
+    "description": "Testdesc",
+    "category": "Cat",
+    "image": "image"
+  }
+]
